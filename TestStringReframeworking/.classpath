@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path=".jref/jreframeworker-annotations.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/benjholla/eclipse-workspaces/runtime-EclipseApplication/TestStringReframeworking/build/rt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
