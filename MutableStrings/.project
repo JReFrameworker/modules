@@ -11,13 +11,13 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>jreframeworker.JReFrameworkerBuilder</name>
+			<name>com.jreframeworker.JReFrameworkerBuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>com.jreframeworker.JReFrameworkerNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-		<nature>jreframeworker.JReFrameworkerNature</nature>
 	</natures>
 </projectDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<build>
+  <targets>
+  	<target name="rt.jar" runtime="true"></target>
+  </targets>
+</build>
