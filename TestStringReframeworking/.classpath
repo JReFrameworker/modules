@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="lib" path=".jref/jreframeworker-annotations.jar"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/Users/benjholla/eclipse-workspaces/runtime-EclipseApplication/TestStringReframeworking/build/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/benjh/Desktop/jreframeworker/modules/TestStringReframeworking/build/rt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
