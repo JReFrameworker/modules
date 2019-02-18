@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/resources.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/rt.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/jsse.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/jce.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/charsets.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/jfr.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/access-bridge-64.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/cldrdata.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/dnsns.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/jaccess.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/jfxrt.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/localedata.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/nashorn.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/sunec.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/sunjce_provider.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/sunmscapi.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/sunpkcs11.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_111/lib/ext/zipfs.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path=".jref/jreframeworker-annotations.jar"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="annotations/JReFrameworkerAnnotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/benjh/Desktop/jreframeworker/modules/HiddenFile/build/rt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
